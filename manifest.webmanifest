@@ -1,0 +1,10 @@
+{
+  "name": "MEXC Futures Signal Scanner",
+  "short_name": "MEXC Scanner",
+  "description": "Free rule-based MEXC futures signal research tool",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0b1120",
+  "theme_color": "#101827",
+  "icons": []
+}
